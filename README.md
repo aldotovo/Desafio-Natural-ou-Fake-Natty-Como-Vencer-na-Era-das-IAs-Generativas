@@ -1,4 +1,4 @@
-# Diversas áreas de aplicação de Inteligência Artificial generativa em uma figura
+# Desafio: Natural ou Fake Natty Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
 A ideia foi a criação uma imagem que resumisse as diversas aplicações de inteligência artificial generativa na atualidade, por exemplo: criação de conteúdo visual, síntese e clonagem de voz, descoberta de novos produtos, geração de textos. 
